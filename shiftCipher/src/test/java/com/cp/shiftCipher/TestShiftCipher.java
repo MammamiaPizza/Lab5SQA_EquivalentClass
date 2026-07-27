@@ -22,7 +22,6 @@ public class TestShiftCipher {
 	
 	
 	
-	
   @ParameterizedTest
   @DisplayName("Test Decript")
   @CsvFileSource(resources = "/com/cp/shiftCipher/testResource/testDecriptData.csv")
